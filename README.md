@@ -1,8 +1,3 @@
-Here is a **clean, professional, and complete README** for your backend project.
-You can copy–paste directly into GitHub.
-
----
-
 # 🎬 **MovieVerse Backend – Spring Boot API**
 
 A powerful backend service built using **Java Spring Boot**, designed to provide movie details, metadata, and YouTube trailer information by integrating with external APIs such as **OMDb API** and **YouTube Data API**.
