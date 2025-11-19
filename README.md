@@ -170,16 +170,3 @@ Pull requests are welcome.
 For major changes, please open an issue first.
 
 ---
-
-## ⭐ **If you like this project, give it a star!**
-
----
-
-If you want, I can also generate:
-
-✅ API Documentation (Swagger style)
-✅ UML diagram
-✅ Postman collection JSON
-✅ Frontend README to match this backend
-
-Just tell me!
